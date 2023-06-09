@@ -12,6 +12,6 @@ python3 sync.py source copy 5 log.txt
 
 #### To run tests
 
-```http
+```ex
 python3 -m unittest tests/test_sync.py
 ```
