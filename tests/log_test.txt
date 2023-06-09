@@ -1,0 +1,3 @@
+Created: ./tests/source_test/create_test.txt -> ./tests/copy_test/create_test.txt
+Copied: ./tests/source_test/update_test.txt -> ./tests/copy_test/update_test.txt
+Removed: ./tests/copy_test/create_test.txt
